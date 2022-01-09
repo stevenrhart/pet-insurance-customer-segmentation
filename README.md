@@ -48,11 +48,11 @@ During exploratory data analysis, a number of observations stood out in relation
 
 #### Dogs tend to have more claims and higher claims totals on average
 
-<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/main/figures/Total-Claims-by-Species-cropped.png" />
+<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures//Total-Claims-by-Species.png" />
 
 #### And as a result, dogs tend to have higher premiums
 
-<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/main/figures/Premium-by-Species-cropped.png" />
+<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/Premium-by-Species.png" />
 
 Add 1-2 more key observations from EDA
 
@@ -69,7 +69,7 @@ Using our final clustering model, we identified 4 distinct clusters in the data 
 
 #### Customer segmentation results
 
-<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/main/figures/DBSCAN-Customer-Segments.png" />
+<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/DBSCAN-Customer-Segments.png" />
 
 ### Segmentation Options
     
