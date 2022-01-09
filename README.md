@@ -67,6 +67,10 @@ Using our final clustering model, we identified 4 distinct clusters in the data 
 * **Segment 3** - Customers with claims in both of the first two policy years 
 * **Segment 4** - Customers with claims only in the first policy year
 
+#### Customer segmentation results
+
+<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/main/figures/DBSCAN-Customer-Segments.png" />
+
 ### Segmentation Options
     
 Within this result, the Marketing team should have a few options for slicing and dicing customers to arrive at the best combination for a specific outreach goal. For example, if the goal is to demonstrate value for customers with no claims, or no recent claims, Marketing can target customers in Segments 1 and 2. In contrast, if the goal is to target customers making consistent claims or whose claims are on the rise, Marketing can focus on customers in segments 3 and 4.
