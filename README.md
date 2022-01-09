@@ -54,7 +54,15 @@ During exploratory data analysis, a number of observations stood out in relation
 
 <img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/Number-Claims-by-Species.png" />
 
-Add 1-2 more key observations from EDA
+#### Dogs are almost twice as likely to have claims in both policy years
+
+<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/Claims-by-PolicyYear.png" />
+
+### PCA
+
+Add PCA plot 
+
+Add feature importance plots
 
 
 ## CLUSTERING RESULTS <a id='results'></a>
@@ -70,6 +78,11 @@ Using our final clustering model, we identified 4 distinct clusters in the data 
 #### Customer segmentation results
 
 <img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/DBSCAN-Customer-Segments.png" />
+
+#### Customer segmentation analysis
+
+Add plot of count of years with claims by segment
+
 
 ### Segmentation Options
     
