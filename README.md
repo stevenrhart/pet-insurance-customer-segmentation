@@ -44,7 +44,9 @@ Overall, the two datasets were relatively clean and the bulk of the data wrangli
 
 ## EDA <a id ='eda'></a>
 
-During exploratory data analysis, a number of observations stood out in relation to overall claims totals. In general, dog owners have more claims and higher total claims amounts than cat owners. As expected, this tends to translate to higher premiums. 
+### Species differences related to claims
+
+During exploratory data analysis, a number of observations stood out in relation to overall claims totals. In general, dog owners have more claims and higher total claims amounts than cat owners. And unsurprisingly, dogs also are much more likely to have claims in both of the first two policy years. 
 
 #### Dogs tend to have higher claims totals on average
 
@@ -57,6 +59,15 @@ During exploratory data analysis, a number of observations stood out in relation
 #### Dogs are almost twice as likely to have claims in both policy years
 
 <img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/Claims-by-PolicyYear.png" />
+
+
+### Overall feature correlation
+
+Other than closely related features (e.g., Total number of claims and total amount of claims), no particularly interesting relationships were observed in terms of feature correlation.
+
+#### Relatively weak correlation between features
+
+<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/Feature-Correlation.png" />
 
 
 ### PCA
