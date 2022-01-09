@@ -58,11 +58,17 @@ During exploratory data analysis, a number of observations stood out in relation
 
 <img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/Claims-by-PolicyYear.png" />
 
+
 ### PCA
+EDA was helpful in providing better context for the relationships in our dataset, but was inconclusive in terms of identifying clear customer groupings. PCA was utilized to better understand which features contribute the most to the variance in our data as a step toward identifying meaningful clusters of customers. 
 
-Add PCA plot 
+#### PCA result illustrating that over 85% of the variance is explained in the first 3 principle components
 
-Add feature importance plots
+<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/Explained-Variance-by-Component.png" />
+
+#### Isolating the first 3 components, we observed that claims-related features contribute most to the variance
+
+<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/Feature-Importance-by-Component.png" />
 
 
 ## CLUSTERING RESULTS <a id='results'></a>
@@ -81,7 +87,7 @@ Using our final clustering model, we identified 4 distinct clusters in the data 
 
 #### Customer segmentation analysis
 
-Add plot of count of years with claims by segment
+<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/DBSCAN-Count-of-YrsWithClaims-by-Segment.png" />
 
 
 ### Segmentation Options
