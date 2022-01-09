@@ -46,13 +46,13 @@ Overall, the two datasets were relatively clean and the bulk of the data wrangli
 
 During exploratory data analysis, a number of observations stood out in relation to overall claims totals. In general, dog owners have more claims and higher total claims amounts than cat owners. As expected, this tends to translate to higher premiums. 
 
-#### Dogs tend to have more claims and higher claims totals on average
+#### Dogs tend to have higher claims totals on average
 
 <img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures//Total-Claims-by-Species.png" />
 
-#### And as a result, dogs tend to have higher premiums
+#### Dogs also tend to have a higher number of claims
 
-<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/Premium-by-Species.png" />
+<img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/Number-Claims-by-Species.png" />
 
 Add 1-2 more key observations from EDA
 
