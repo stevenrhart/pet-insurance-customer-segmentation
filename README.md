@@ -6,7 +6,7 @@
 
 **[Executive Summary](#exec-summary)** | **[Datasets](#data)** | **[Wrangling](#wrangling)** | **[EDA](#eda)** | **[Results](#results)** | **[Future](#future)**
 
-See the [presentation](#link)
+See the [presentation](https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/report/Pet%20Insurance%20Customer%20Segmentation.pdf)
 
 See the [complete report](#link)
 
@@ -19,7 +19,7 @@ The idea behind pet insurance is simple and similar to the human health insuranc
 
 The Marketing department at a leading pet insurance provider is seeking to better understand its customer base to prevent customer loss and drive additional company revenue. Data suggests that customers are most likely to cancel their policies around the 2-year point following enrollment. The goal of this project is to identify 3-4 customer segments (with some justification for each) that will enable the Marketing team to reduce customer shrinkage while improving outcomes related to targeted ads and/or direct-to-customer campaigns.
 
-After evaluating a different clustering methods, the best performing model resulted in 4 distinct clusters in the data representing 4 distinct customer segments. Two predominate driving factors were observed in the clustering results - the first being the number of policy years with claims (either 0, 1, or 2) and the second based on which specific policy years the customer claims take place (in the event of only having claims in a single year).    
+After evaluating different clustering methods, the best performing model resulted in 4 distinct clusters in the data representing 4 distinct customer segments. Two predominate driving factors were observed in the clustering results - the first being the number of policy years with claims (either 0, 1, or 2) and the second based on which specific policy years the customer claims take place (in the event of only having claims in a single year).    
 
 
 ## DATASETS <a id ='data'></a>
