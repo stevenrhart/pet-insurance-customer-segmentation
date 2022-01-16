@@ -65,7 +65,7 @@ During exploratory data analysis, a number of observations stood out in relation
 
 Other than closely related features (e.g., Total number of claims and total amount of claims), no particularly interesting relationships were observed in terms of feature correlation.
 
-#### Relatively weak correlation between features
+#### Strong correlation between some claims-related features, relatively weak correlation otherwise
 
 <img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/Feature-Correlation.png" />
 
@@ -103,7 +103,7 @@ Using our final clustering model, we identified 4 distinct clusters in the data 
 
 ### Segmentation Options
     
-Within this result, the Marketing team should have a few options for slicing and dicing customers to arrive at the best combination for a specific outreach goal. For example, if the goal is to demonstrate value for customers with no claims, or no recent claims, Marketing can target customers in Segments 1 and 2. In contrast, if the goal is to target customers making consistent claims or whose claims are on the rise, Marketing can focus on customers in segments 3 and 4.
+Within this result, the Marketing team should have a few options for slicing and dicing customers to arrive at the best combination for a specific outreach goal. For example, if the goal is to demonstrate value for customers with no claims, or no recent claims, Marketing can target customers in Segments 2 and 4. In contrast, if the goal is to target customers making consistent claims or whose claims are on the rise, Marketing can focus on customers in segments 1 and 3.
 
 
 ## FUTURE RESEARCH <a id = 'future'></a>
