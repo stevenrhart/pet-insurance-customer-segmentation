@@ -8,7 +8,7 @@
 
 See the [presentation](https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/report/Pet%20Insurance%20Customer%20Segmentation.pdf)
 
-See the [complete report](#link)
+See the [complete report](https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/report/Pet%20Insurance%20Customer%20Segmentation%20-%20Final%20Report.pdf)
 
 
 ## EXECUTIVE SUMMARY <a id='overview'></a>
@@ -73,7 +73,7 @@ Other than closely related features (e.g., Total number of claims and total amou
 ### PCA
 EDA was helpful in providing better context for the relationships in our dataset, but was inconclusive in terms of identifying clear customer groupings. PCA was utilized to better understand which features contribute the most to the variance in our data as a step toward identifying meaningful clusters of customers. 
 
-#### PCA result illustrating that over 85% of the variance is explained in the first 3 principle components
+#### PCA result illustrating that nearly 85% of the variance is explained in the first 3 principle components
 
 <img src="https://github.com/stevenrhart/pet-insurance-customer-segmentation/blob/master/figures/Explained-Variance-by-Component.png" />
 
